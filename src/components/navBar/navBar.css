@@ -1,0 +1,29 @@
+.navbar {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+.navbar li {
+    font-size: medium;
+    list-style-type: none;
+}
+
+.navbar ul {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+
+.logo {
+    height: 50px;
+}
+
+.brand {
+    font-size: larger;
+    color: blue;
+}
