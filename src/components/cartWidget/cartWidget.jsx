@@ -1,5 +1,5 @@
 import React from 'react'
-import './cartWidget.css'
+import './CartWidget.css'
 import chango from '../Images/shopping-cart.png';
 
 const CartWidget = () => {
